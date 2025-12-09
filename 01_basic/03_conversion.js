@@ -24,4 +24,4 @@ console.log(booleanIsLoggedIn)
 let someNumber = 93
 let stringNumber = String(someNumber)
 console.log(typeof stringNumber)
-console.log(stringNumber)
+console.log(stringNumber)  
